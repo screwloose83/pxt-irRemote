@@ -8,39 +8,39 @@ load dependency
 
 enum RemoteButton {
     //% block=*
-    A = 0x16,
+    A = 0x45,
     //% block=#
-    B = 0x0D,
+    B = 0x46,
     //% block=UP
-    UP = 0x18,
+    UP = 0x40 ,
     //% block=LEFT
-    Left = 0x08,
+    Left = 0x07,
     //% block=OK
-    Ok = 0x1C,
+    Ok = 0x15,
     //% block=RIGHT
-    Right = 0x5A,
+    Right = 0x09 ,
     //% block=DOWN
-    Down = 0x52,
+    Down = 0x19 ,
     //% block=0
-    NUM0 = 0x19,
+    NUM0 = 0x16 ,
     //% block=1
-    NUM1 = 0x45,
+    NUM1 = 0x0C,
     //% block=2
-    NUM2 = 0x46,
+    NUM2 = 0x18,
     //% block=3
-    NUM3 = 0x47,
+    NUM3 = 0x5E,
     //% block=4
-    NUM4 = 0x44,
+    NUM4 = 0x08,
     //% block=5
-    NUM5 = 0x40,
+    NUM5 = 0x1C,
     //% block=6
-    NUM6 = 0x43,
+    NUM6 = 0x5A,
     //% block=7
-    NUM7 = 0x07,
+    NUM7 = 0x42,
     //% block=8
-    NUM8 = 0x15,
+    NUM8 = 0x52,
     //% block=9
-    NUM9 = 0x09
+    NUM9 = 0x4A
 };
 
  enum  IrPins{
