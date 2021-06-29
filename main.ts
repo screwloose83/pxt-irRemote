@@ -1,9 +1,3 @@
-/*
-ken@emakefun.com
-modified from pxt-servo/servodriver.ts
-load dependency
-"magicbit": "file:../pxt-magicbit"
-*/
 
 
 enum RemoteButton {
