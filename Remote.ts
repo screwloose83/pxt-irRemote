@@ -10,7 +10,7 @@ enum RemoteButton {
     //% block=+
     Add = 0x43,
     //% block=-
-    Sub = 0x13,
+    Sub = 0x0d,
 	
     //% block=UP
     UP = 0x40,
@@ -41,7 +41,7 @@ enum RemoteButton {
     //% block=8
     NUM8 = 0x52,
     //% block=9
-    NUM9 = 0x09
+    NUM9 = 0x4a
 };
  enum  IrPins{
 
