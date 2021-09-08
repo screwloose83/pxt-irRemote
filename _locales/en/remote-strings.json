@@ -1,0 +1,6 @@
+{
+    "Remote.IrRemote_init|block": "Infrared remote control initialization pin|%pin",
+    "Remote.OnPressEvent|block": "Infrared remote control button|%btn|Press down",
+    "Remote.IR_callbackUserV2|block": "Run when infrared is received",
+    "Remote.IR_readV2|block": "Infrared reception value"
+}
